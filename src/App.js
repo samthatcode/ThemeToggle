@@ -44,7 +44,7 @@ const Content = () => {
 const Header = () => {
   return (
     <header>
-      <Title>Little Lemon 🍕</Title>
+      <Title>Pizza Pie 🍕</Title>
       <Switch />
     </header>
   );
@@ -53,7 +53,7 @@ const Header = () => {
 const Page = () => {
   return (
     <div className="Page">
-      <Title>When it comes to dough</Title>
+      <Title>When push comes to sholve</Title>
       <Content />
     </div>
   );
